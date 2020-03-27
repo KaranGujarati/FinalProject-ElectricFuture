@@ -1,0 +1,227 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Electric Future</title>
+
+    
+    <!-- Bootstrap Styles-->
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
+    <!-- FontAwesome Styles-->
+    <link href="assets/css/font-awesome.css" rel="stylesheet" />
+    <!-- Morris Chart Styles-->
+    <link href="assets/js/morris/morris-0.4.3.min.css" rel="stylesheet" />
+    <!-- Custom Styles-->
+    <link href="assets/css/custom-styles.css" rel="stylesheet" />
+    <!-- Google Fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+
+    <style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create four equal columns that floats next to each other */
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 440px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  
+}
+
+</style>
+
+
+
+</head>
+
+<body>
+    <div id="wrapper">
+        <nav class="navbar navbar-default top-navbar" role="navigation">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">Electric Future</a>
+            </div>
+
+        </nav>
+        <!--/. NAV TOP  -->
+        <nav class="navbar-default navbar-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav" id="main-menu">
+
+                    <li>
+                        <a class="active-menu" href="index.html"><i class="fa fa-dashboard"></i> Dashboard</a>
+                    </li>
+                    <li>
+                        <a href="why-evs.html"><i class="fa fa-question"></i> Why EVs </a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-sitemap"></i> EV Outlook<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                                <a href="global-sales.html"> Global sales </a>
+                            </li>
+                            <li>
+                                <a href="US-sales.html"> US sales </a>
+                            </li>
+                            <li>
+                                <a href="China-sales.html"> China Sales </a>
+                            </li>
+                            <li>
+                                <a href="Europe-sales.html"> Europe Sales </a>
+                            </li>
+                            <li>
+                                <a href="Canada-sales.html"> Canada Sales </a>
+                            </li>
+
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="Electric-Vehicles.html"><i class="fa fa-table"></i> Electric Vehicles</a>
+                    </li>
+                    
+                    <li>
+                        <a href="Leaflet.html"><i class="fa fa-qrcode"></i> Charging Points</a>
+                    </li>
+                </ul>
+
+            </div>
+
+        </nav>
+        <!-- /. NAV SIDE  -->
+        <div id="page-wrapper">
+            <div id="page-inner">
+
+                <div class="col-lg-12 col-md-12" style="color:white;">
+                    <h1 class="display-4"> What is EV?</h1>
+                        </br>
+                        <p class="lead text-justify" >
+                        An electric vehicle (EV) is one that operates on an electric motor, instead of an internal-combustion engine (ICEs) that generates power by burning a mix of fuel and gases. 
+                        Therefore, such as vehicle is seen as a possible replacement for current-generation automobile, in order to address the issue of rising pollution, global warming, depleting natural resources, etc.
+                        </p>       
+                </div>
+
+                <div class="row">
+                    <div class="column" style="background-color:#aaa;">
+                        <h2>BEV</h2>
+                        <p>Battery Electric Vehicles</p>
+                        <p>Fully-electric vehicles with rechargeable batteries</p>
+                        <p>Battery power is used to run the electric motor and all onboard electronics</p>
+                        <p>Tesla Model 3/S/X </br>
+                            BMW i3 </br>
+                            Chevy Bolt </br>
+                            Nissan LEAF </br>
+                            Hyundai Ioniq </br> </p>
+        
+                    </div>
+                    <div class="column" style="background-color:#bbb;">
+                        <h2>PHEV</h2>
+                        <p>Plug-in Hybrid Electric Vehicles</p>
+                        <p>PHEVs can recharge the battery through both regenerative braking and “plugging in” to an external source of electrical power</p>
+                        <p>Can go anywhere from 10-40 miles before their gas engines provide assistance</p>
+                        <p>Ford Fusion Energi </br>
+                            Chrysler Pacifica </br>
+                            Chevy Volt </br> </p>
+                    </div>
+                    <div class="column" style="background-color:#ccc;">
+                        <h2>HEV</h2>
+                        <p>Hybrid Electric Vehicles</p>
+                        <p>HEVs are powered by both gasoline and electricity</p>
+                        <p>The electric energy is generated by the car’s own "Regenerative braking system" to recharge the battery</p>
+                        <p>Toyota Prius Hybrid </br>
+                            Honda Civic Hybrid </br>
+                            Toyota Camry Hybrid </br>
+                            Toyota Highlander Hybrid </p>
+                    </div>
+                    <div class="column" style="background-color:#ddd;">
+                        <h2>NEV or ZEV</h2>
+                        <p>A ZEV is a vehicle that has the potential to produce no tailpipe emissions </br>
+                        They can still have a conventional internal combustion engine, but must also be able to operate without using it </p>
+                        <p> Example, BEV, PHEV or Hydrogen Fuel cell </p>
+                        <p> NEV is the term used in China for ZEV, to designate EVs eligible for public subsidies</p>
+                    </div>
+                </div>
+
+                <div class="row"> 
+
+            <div class="col-lg-12 col-md-12" >
+
+                <div class="jumbotron jumbotron-fluid" style="background-color:#ddd;">
+                    <div class="container">
+                        <h2 class="display-4">CHARGING POINT TYPES</h2>
+                        </br>
+                        
+                        <div class="row">
+
+                            <div class="col-6">
+                                <figure>
+                                    <img src="Resources/1.png" class="img-fluid rounded mx-auto d-block" alt="Maximum Temperature">
+                                </figure>
+                            </div>
+
+                        </div>
+                        </br>
+
+                        <div class="row">
+
+                            <div class="col-6">
+                                <figure>
+                                    <img src="Resources/2.png" class="img-fluid rounded mx-auto d-block" alt="Cloudiness">
+                                </figure>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+                </br>
+            
+            </div>
+            
+
+                
+                    
+            
+
+
+
+		
+            </div>
+            <!-- /. PAGE INNER  -->
+        </div>
+        <!-- /. PAGE WRAPPER  -->
+    </div>
+    <!-- /. WRAPPER  -->
+    <!-- JS Scripts-->
+    <!-- jQuery Js -->
+    <script src="assets/js/jquery-1.10.2.js"></script>
+    <!-- Bootstrap Js -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- Metis Menu Js -->
+    <script src="assets/js/jquery.metisMenu.js"></script>
+    <!-- Morris Chart Js -->
+    <script src="assets/js/morris/raphael-2.1.0.min.js"></script>
+    <script src="assets/js/morris/morris.js"></script>
+    <!-- Custom Js -->
+    <script src="assets/js/custom-scripts.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,266 @@
+Vehicle Category,Model Name,Model Year,Manufacturer,Fuel Type,All Electric Range,Alt Fuel Economy City,Alt Fuel Economy Highway,Alt Fuel Economy Combined,Conv Fuel Economy City,Conv Fuel Economy Highway,Conv Fuel Economy Combined,Transmission Type,Engine Type,Engine Size,Engine Cylinder Count
+Sedan/Wagon,A8L,2020,Audi,Plug-in Hybrid Electric,17.0,,,54.0,21.0,27.0,23.0,Auto,SI,3.0L,6.0
+SUV,e-tron,2020,Audi,Electric,222.0,78.0,78.0,78.0,,,,Auto,e-motor,141 kW and 172 kW electric motor,
+SUV,e-tron Sportback,2020,Audi,Electric,218.0,76.0,78.0,77.0,,,,Auto,e-motor,141 kW and 172 kW electric motor,
+Sedan/Wagon,Q5,2020,Audi,Plug-in Hybrid Electric,20.0,,,65.0,25.0,29.0,27.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,530e,2020,BMW,Plug-in Hybrid Electric,21.0,,,69.0,25.0,31.0,27.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,530e xDrive,2020,BMW,Plug-in Hybrid Electric,19.0,,,65.0,23.0,29.0,25.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,745e xDrive,2020,BMW,Plug-in Hybrid Electric,16.0,,,56.0,19.0,26.0,22.0,Auto,SI,3.0L,6.0
+Sedan/Wagon,i3,2020,BMW,Electric,153.0,124.0,102.0,113.0,,,,Auto,e-motor,125 kW electric motor,
+Sedan/Wagon,i3s,2020,BMW,Electric,153.0,124.0,102.0,113.0,,,,Auto,e-motor,135 kW electric motor,
+Sedan/Wagon,i8 Coupe,2020,BMW,Plug-in Hybrid Electric,18.0,,,69.0,26.0,29.0,27.0,Auto,SI,1.5L,3.0
+Sedan/Wagon,i8 Roadster,2020,BMW,Plug-in Hybrid Electric,18.0,,,69.0,26.0,29.0,27.0,Auto,SI,1.5L,3.0
+Sedan/Wagon,e6,2020,BYD Motors,Electric,187.0,73.0,71.0,72.0,,,,Auto,e-motor,75 kW electric motor,
+Sedan/Wagon,Bolt EV,2020,Chevrolet,Electric,259.0,127.0,108.0,118.0,,,,,e-motor,150 kW electric motor,
+Van,Pacifica Hybrid,2020,Chrysler,Plug-in Hybrid Electric,32.0,82.0,,,29.0,30.0,30.0,Auto,SI,3.6L,6.0
+Sedan/Wagon,Fusion Energi Plug in Hybrid FWD,2020,Ford,Plug-in Hybrid Electric,26.0,,,103.0,43.0,40.0,42.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Fusion Special Service PHEV,2020,Ford,Plug-in Hybrid Electric,26.0,,,102.0,43.0,40.0,42.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Clarity PHEV,2020,Honda,Plug-in Hybrid Electric,48.0,,,110.0,44.0,40.0,42.0,Auto,SI,1.5L,4.0
+Sedan/Wagon,Ioniq Electric,2020,Hyundai,Electric,170.0,145.0,121.0,133.0,,,,Auto,e-motor,88 kW electric motor,
+Sedan/Wagon,Ioniq Plug-in Hybrid,2020,Hyundai,Plug-in Hybrid Electric,29.0,,,119.0,53.0,52.0,52.0,Auto,SI,1.6L,4.0
+SUV,Kona Electric,2020,Hyundai,Electric,258.0,132.0,108.0,120.0,,,,Auto,e-motor,150 kW electric motor,
+SUV,I-PACE,2020,Jaguar,Electric,234.0,80.0,72.0,76.0,,,,Auto,e-motor,201 kW electric motor,
+Sedan/Wagon,"Revero GT (21"" wheels)",2020,Karma,Plug-in Hybrid Electric,61.0,70.0,,,27.0,25.0,26.0,Auto,SI,1.5L,3.0
+Sedan/Wagon,Niro Electric,2020,Kia,Electric,239.0,123.0,102.0,112.0,,,,Auto,e-motor,150 kW electric motor,
+Sedan/Wagon,Niro Plug-in Hybrid,2020,Kia,Plug-in Hybrid Electric,26.0,,,105.0,48.0,44.0,46.0,Auto,SI,1.6L,4.0
+Sedan/Wagon,Optima Plug-In Hybrid,2020,Kia,Plug-in Hybrid Electric,28.0,,,101.0,39.0,40.0,41.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Soul,2020,Kia,Electric,243.0,127.0,101.0,114.0,,,,Auto,e-motor,201 kW electric motor,
+SUV,Range Rover PHEV,2020,Land Rover,Plug-in Hybrid Electric,19.0,,,42.0,18.0,21.0,19.0,Auto,CI,2.0L,4.0
+SUV,Range Rover Sport PHEV,2020,Land Rover,Plug-in Hybrid Electric,19.0,,,42.0,18.0,21.0,19.0,Auto,CI,2.0L,4.0
+SUV,Aviator AWD PHEV,2020,Lincoln,Plug-in Hybrid Electric,21.0,,,56.0,22.0,25.0,23.0,Auto,CI,3.0L,6.0
+Sedan/Wagon,Cooper SE Countryman ALL4,2020,Mini,Plug-in Hybrid Electric,18.0,,,73.0,29.0,30.0,29.0,Auto,SI,1.5L,3.0
+Sedan/Wagon,Cooper SE Hardtop 2 door,2020,Mini,Electric,110.0,115.0,100.0,108.0,,,,Auto,e-motor,135 kW electric motor,
+SUV,Outlander PHEV,2020,Mitsubishi,Plug-in Hybrid Electric,22.0,,,74.0,25.0,26.0,25.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Panamera 4 e-Hybrid,2020,Porsche,Plug-in Hybrid Electric,14.0,,,51.0,21.0,24.0,23.0,Auto,SI,2.9L,6.0
+Sedan/Wagon,Panamera 4 e-Hybrid Executive,2020,Porsche,Plug-in Hybrid Electric,14.0,,,51.0,21.0,24.0,23.0,Auto,SI,2.9L,6.0
+Sedan/Wagon,Panamera 4 e-Hybrid ST,2020,Porsche,Plug-in Hybrid Electric,14.0,,,51.0,21.0,24.0,23.0,Auto,SI,2.9L,6.0
+Sedan/Wagon,Panamera Turbo S e-Hybrid,2020,Porsche,Plug-in Hybrid Electric,14.0,,,48.0,19.0,22.0,20.0,Auto,SI,4.0L,8.0
+Sedan/Wagon,Panamera Turbo S e-Hybrid Executive,2020,Porsche,Plug-in Hybrid Electric,14.0,,,48.0,19.0,22.0,20.0,Auto,SI,4.0L,8.0
+Sedan/Wagon,Panamera Turbo S e-Hybrid ST,2020,Porsche,Plug-in Hybrid Electric,14.0,,,48.0,19.0,22.0,20.0,Auto,SI,4.0L,8.0
+Sedan/Wagon,Taycan Turbo,2020,Porsche,Electric,201.0,68.0,69.0,71.0,,,,Auto,e-motor,170 kW electric motor,
+Sedan/Wagon,Taycan Turbo S,2020,Porsche,Electric,192.0,67.0,68.0,68.0,,,,Auto,e-motor,170 kW electric motor,
+SUV,Crosstrek Hybrid AWD,2020,Subaru,Plug-in Hybrid Electric,17.0,,,90.0,36.0,35.0,35.0,Auto,,2.0L,4.0
+Sedan/Wagon,Model 3 Long Range,2020,Tesla,Electric,330.0,136.0,123.0,130.0,,,,Auto,e-motor,211 kW electric motor,
+Sedan/Wagon,Model 3 Long Range AWD,2020,Tesla,Electric,322.0,124.0,116.0,121.0,,,,Auto,e-motor,147 kW and 188 kW electric motor,
+Sedan/Wagon,"Model 3 Long Range Performance AWD (18"" Wheels)",2020,Tesla,Electric,322.0,124.0,116.0,121.0,,,,Auto,e-motor,147 kW and 188 kW electric motor,
+Sedan/Wagon,Model 3 Mid Range,2020,Tesla,Electric,264.0,128.0,117.0,123.0,,,,Auto,e-motor,211 kW electric motor,
+Sedan/Wagon,Model 3 Standard Range,2020,Tesla,Electric,220.0,138.0,124.0,133.0,,,,Auto,e-motor,211 kW electric motor,
+Sedan/Wagon,Model 3 Standard Range Plus,2020,Tesla,Electric,250.0,148.0,141.0,132.0,,,,Auto,e-motor,211 kW electric motor,
+Sedan/Wagon,Model S Long Range,2020,Tesla,Electric,373.0,115.0,107.0,111.0,,,,Auto,e-motor,193 kW and 205 kW electric motor,
+Sedan/Wagon,"Model S Performance (19"" Wheels)",2020,Tesla,Electric,348.0,104.0,104.0,104.0,,,,Auto,e-motor,193 kW and 205 kW electric motor,
+Sedan/Wagon,Model S Standard Range,2020,Tesla,Electric,287.0,113.0,105.0,109.0,,,,Auto,e-motor,193 kW and 205 kW electric motor,
+SUV,Model X Long Range,2020,Tesla,Electric,328.0,99.0,93.0,96.0,,,,Auto,e-motor,193 and 205 kW electric motor,
+SUV,"Model X Performance (20"" Wheels)",2020,Tesla,Electric,305.0,90.0,89.0,90.0,,,,Auto,e-motor,205 and 375 kW electric motors,
+SUV,Model X Standard Range,2020,Tesla,Electric,258.0,105.0,98.0,101.0,,,,Auto,e-motor,193 and 205 kW electric motor,
+Sedan/Wagon,Prius Prime,2020,Toyota,Plug-in Hybrid Electric,25.0,,,133.0,55.0,53.0,54.0,Auto,,1.8L,4.0
+Sedan/Wagon,e-Golf,2020,Volkswagen,Electric,123.0,122.0,104.0,113.0,,,,Auto,e-motor,100 kW electric motor,
+SUV,S60 AWD,2020,Volvo,Plug-in Hybrid Electric,22.0,,,69.0,28.0,33.0,30.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,S90 AWD,2020,Volvo,Plug-in Hybrid Electric,21.0,,,60.0,28.0,31.0,30.0,Auto,SI,2.0L,4.0
+SUV,V60 AWD,2020,Volvo,Plug-in Hybrid Electric,22.0,,,69.0,28.0,33.0,30.0,Auto,SI,2.0L,4.0
+SUV,XC60 AWD,2020,Volvo,Plug-in Hybrid Electric,19.0,,,57.0,26.0,28.0,27.0,Auto,SI,2.0L,4.0
+SUV,XC90 AWD,2020,Volvo,Plug-in Hybrid Electric,18.0,,,55.0,26.0,28.0,27.0,Auto,SI,2.0L,4.0
+SUV,e-tron,2019,Audi,Electric,204.0,73.0,74.0,74.0,,,,Auto,e-motor,141 kW and 172 kW electric motor,
+Sedan/Wagon,530e,2019,BMW,Plug-in Hybrid Electric,16.0,,,72.0,27.0,30.0,29.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,530e xDrive,2019,BMW,Plug-in Hybrid Electric,15.0,,,67.0,27.0,31.0,28.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,740e xDrive,2019,BMW,Plug-in Hybrid Electric,14.0,,,64.0,25.0,29.0,27.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,i3,2019,BMW,Electric,153.0,124.0,102.0,113.0,,,,Auto,e-motor,135 kW electric motor,
+Sedan/Wagon,i3s,2019,BMW,Electric,153.0,124.0,102.0,113.0,,,,Auto,e-motor,135 kW electric motor,
+Sedan/Wagon,i3s with Range Extender,2019,BMW,Electric,126.0,,,110.0,30.0,31.0,31.0,Auto,e-motor,135 kW,
+Sedan/Wagon,i3 with Range Extender,2019,BMW,Electric,126.0,,,100.0,30.0,31.0,31.0,Auto,e-motor,125 kW,
+Sedan/Wagon,i8 Coupe,2019,BMW,Plug-in Hybrid Electric,18.0,,,69.0,26.0,29.0,26.0,Auto,SI,1.5L,3.0
+Sedan/Wagon,i8 Roadster,2019,BMW,Plug-in Hybrid Electric,18.0,,,69.0,26.0,29.0,26.0,Auto,SI,1.5L,3.0
+Sedan/Wagon,e6,2019,BYD Motors,Electric,187.0,73.0,71.0,72.0,,,,Auto,e-motor,75 kW electric motor,
+Sedan/Wagon,Bolt EV,2019,Chevrolet,Electric,238.0,128.0,110.0,119.0,,,,,e-motor,150 kW electric motor,
+Sedan/Wagon,Volt,2019,Chevrolet,Plug-in Hybrid Electric,53.0,,,110.0,43.0,42.0,42.0,Auto,SI,1.5L,4.0
+Van,Pacifica Hybrid,2019,Chrysler,Plug-in Hybrid Electric,32.0,,,82.0,29.0,30.0,30.0,Auto,SI,3.6L,6.0
+Sedan/Wagon,500e,2019,Fiat,Electric,84.0,121.0,103.0,112.0,,,,Auto,e-motor,82 kW electric motor,
+Pickup,F-150,2019,Ford,Plug-in Hybrid Electric,,,,,,,,Auto,SI,"2.7L, 3.3L",6.0
+Sedan/Wagon,Fusion Energi Plug in Hybrid FWD,2019,Ford,Plug-in Hybrid Electric,26.0,,,103.0,43.0,40.0,42.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Fusion Special Service Vehicle PHEV,2019,Ford,Plug-in Hybrid Electric,26.0,,,102.0,43.0,40.0,42.0,Auto,SI,2.0L,4.0
+Pickup,Super Duty F-250 2WD/4WD,2019,Ford,Plug-in Hybrid Electric,,,,,,,,Auto,SI,6.2L,8.0
+Van,Transit Van/Wagon,2019,Ford,Electric,60.0,,,,,,,Auto,e-motor,160 kW electric motor,
+Van,Transit Van/Wagon,2019,Ford,Electric,120.0,,,,,,,Auto,e-motor,160 kW electric motor,
+Sedan/Wagon,Clarity,2019,Honda,Electric,89.0,126.0,103.0,114.0,,,,Auto,e-motor,120 kW electric motor,
+Sedan/Wagon,Clarity PHEV,2019,Honda,Plug-in Hybrid Electric,48.0,,,110.0,44.0,40.0,42.0,Auto,SI,1.5L,4.0
+Sedan/Wagon,Ioniq Electric,2019,Hyundai,Electric,124.0,150.0,122.0,136.0,,,,Auto,e-motor,88 kW electric motor,
+Sedan/Wagon,Ioniq Plug-in Hybrid,2019,Hyundai,Plug-in Hybrid Electric,29.0,,,119.0,53.0,52.0,52.0,Auto,SI,1.6L,4.0
+SUV,Kona Electric,2019,Hyundai,Electric,258.0,132.0,108.0,120.0,,,,Auto,e-motor,150 kW electric motor,
+SUV,I-PACE,2019,Jaguar,Electric,239.0,80.0,72.0,76.0,,,,Auto,e-motor,147 kW electric motor,
+Sedan/Wagon,Revero,2019,Karma,Plug-in Hybrid Electric,37.0,60.0,,,19.0,21.0,20.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Niro Electric,2019,Kia,Electric,239.0,123.0,102.0,112.0,,,,Auto,e-motor,150 kW electric motor,
+Sedan/Wagon,Niro Plug-in Hybrid,2019,Kia,Plug-in Hybrid Electric,26.0,,,105.0,48.0,44.0,46.0,Auto,SI,1.6L,4.0
+Sedan/Wagon,Optima Plug-In Hybrid,2019,Kia,Plug-in Hybrid Electric,29.0,,,103.0,38.0,43.0,40.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Soul,2019,Kia,Electric,111.0,124.0,93.0,108.0,,,,Auto,e-motor,81 kW electric motor,
+SUV,GLC 350e 4MATIC,2019,Mercedes-Benz,Plug-in Hybrid Electric,10.0,,,56.0,24.0,27.0,25.0,Auto,SI,2.0L ,4.0
+SUV,S 560e,2019,Mercedes-Benz,Plug-in Hybrid Electric,19.0,64.0,,,21.0,26.0,23.0,Auto,SI,3.0L,4.0
+Sedan/Wagon,Cooper SE Countryman ALL4,2019,Mini,Plug-in Hybrid Electric,12.0,,,65.0,28.0,27.0,27.0,Auto,SI,1.5L,3.0
+SUV,Outlander PHEV,2019,Mitsubishi,Plug-in Hybrid Electric,22.0,,,74.0,25.0,26.0,25.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,Leaf (40 kWh battery pack),2019,Nissan,Electric,150.0,124.0,99.0,112.0,,,,Auto,e-motor,110 kW electric motor,
+Sedan/Wagon,Leaf (62 kWh battery pack),2019,Nissan,Electric,226.0,118.0,97.0,108.0,,,,Auto,e-motor,160 kW electric motor,
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2019,Nissan,Electric,215.0,114.0,94.0,104.0,,,,Auto,e-motor,160 kW electric motor,
+SUV,Cayenne e-Hybrid,2019,Porsche,Plug-in Hybrid Electric,13.0,46.0,,,21.0,23.0,22.0,Auto,SI,3.0L ,6.0
+Sedan/Wagon,Panamera 4 e-Hybrid,2019,Porsche,Plug-in Hybrid Electric,14.0,,,51.0,21.0,24.0,23.0,Auto,SI,2.9L,6.0
+Sedan/Wagon,Panamera 4 e-Hybrid Executive,2019,Porsche,Plug-in Hybrid Electric,14.0,,,51.0,21.0,24.0,23.0,Auto,SI,2.9L,6.0
+Sedan/Wagon,Panamera 4 e-Hybrid ST,2019,Porsche,Plug-in Hybrid Electric,14.0,,,51.0,21.0,24.0,23.0,Auto,SI,2.9L,6.0
+Sedan/Wagon,Panamera Turbo S e-Hybrid,2019,Porsche,Plug-in Hybrid Electric,14.0,,,48.0,19.0,22.0,20.0,Auto,SI,4.0L,8.0
+Sedan/Wagon,Panamera Turbo S e-Hybrid Executive,2019,Porsche,Plug-in Hybrid Electric,14.0,,,48.0,19.0,22.0,20.0,Auto,SI,4.0L,8.0
+Sedan/Wagon,Panamera Turbo S e-Hybrid ST,2019,Porsche,Plug-in Hybrid Electric,14.0,,,48.0,19.0,22.0,20.0,Auto,SI,4.0L,8.0
+Sedan/Wagon,EQ fortwo convertible,2019,smart,Electric,57.0,112.0,91.0,102.0,,,,Auto,e-motor,60 kW electric motor,
+Sedan/Wagon,EQ fortwo coupe,2019,smart,Electric,58.0,124.0,94.0,108.0,,,,Auto,e-motor,60 kW electric motor,
+SUV,Crosstrek Hybrid AWD,2019,Subaru,Plug-in Hybrid Electric,17.0,,,90.0,36.0,35.0,35.0,Auto,,2.0L,4.0
+Sedan/Wagon,Model 3 Long Range,2019,Tesla,Electric,310.0,136.0,123.0,130.0,,,,Auto,e-motor,211 kW electric motor,
+Sedan/Wagon,Model 3 Long Range AWD,2019,Tesla,Electric,310.0,120.0,112.0,116.0,,,,Auto,e-motor,147 kW and 188 kW electric motor,
+Sedan/Wagon,Model 3 Long Range AWD Performance,2019,Tesla,Electric,310.0,120.0,112.0,116.0,,,,Auto,e-motor,147 kW and 211 kW electric motor,
+Sedan/Wagon,Model 3 Mid Range,2019,Tesla,Electric,264.0,128.0,117.0,123.0,,,,Auto,e-motor,202 kW electric motor,
+Sedan/Wagon,Model 3 Standard Range,2019,Tesla,Electric,220.0,138.0,124.0,131.0,,,,Auto,e-motor,211 kW electric motor,
+Sedan/Wagon,Model 3 Standard Range Plus,2019,Tesla,Electric,240.0,140.0,124.0,133.0,,,,Auto,e-motor,211 kW electric motor,
+Sedan/Wagon,Model S 100D,2019,Tesla,Electric,335.0,101.0,102.0,102.0,,,,Auto,e-motor,193 kW electric motor (X2),
+Sedan/Wagon,Model S 75D,2019,Tesla,Electric,259.0,102.0,105.0,103.0,,,,Auto,e-motor,193 kW electric motor (X2),
+Sedan/Wagon,Model S Long Range,2019,Tesla,Electric,370.0,115.0,107.0,111.0,,,,Auto,e-motor,193 kW and 205 kW electric motor,
+Sedan/Wagon,Model S P100D,2019,Tesla,Electric,315.0,92.0,105.0,98.0,,,,Auto,e-motor,193 kW and 375 kW electric motor,
+Sedan/Wagon,"Model S Performance (19"" Wheels)",2019,Tesla,Electric,345.0,104.0,104.0,104.0,,,,Auto,e-motor,193 kW and 205 kW electric motor,
+Sedan/Wagon,Model S Standard Range,2019,Tesla,Electric,285.0,113.0,105.0,109.0,,,,Auto,e-motor,193 kW and 205 kW electric motor,
+SUV,Model X 100D,2019,Tesla,Electric,295.0,86.0,89.0,87.0,,,,Auto,e-motor,193 kW and 193 kW electric motor,
+SUV,Model X 75D,2019,Tesla,Electric,238.0,91.0,95.0,93.0,,,,Auto,e-motor,193 kW electric motor (X2),
+SUV,Model X Long Range,2019,Tesla,Electric,325.0,99.0,93.0,96.0,,,,Auto,e-motor,"193, 205, 375 kW electric motor",
+SUV,Model X P100D,2019,Tesla,Electric,289.0,83.0,89.0,85.0,,,,Auto,e-motor,193 kW and 375 kW electric motor,
+SUV,"Model X Performance (22"" Wheels)",2019,Tesla,Electric,270.0,80.0,77.0,79.0,,,,Auto,e-motor,"193, 205, 375 kW electric motor",
+Sedan/Wagon,Prius Prime,2019,Toyota,Plug-in Hybrid Electric,25.0,,,133.0,55.0,53.0,54.0,Auto,,1.8L,4.0
+Sedan/Wagon,e-Golf,2019,Volkswagen,Electric,125.0,126.0,111.0,119.0,,,,Auto,e-motor,100 kW electric motor,
+SUV,S60 AWD,2019,Volvo,Plug-in Hybrid Electric,22.0,,,74.0,29.0,34.0,31.0,Auto,SI,2.0L,4.0
+Sedan/Wagon,S90 AWD,2019,Volvo,Plug-in Hybrid Electric,21.0,,,71.0,26.0,33.0,29.0,Auto,SI,2.0L,4.0
+SUV,XC60 AWD,2019,Volvo,Plug-in Hybrid Electric,17.0,,,58.0,25.0,28.0,26.0,Auto,SI,2.0L,4.0
+SUV,XC90 AWD,2019,Volvo,Plug-in Hybrid Electric,17.0,,,58.0,24.0,27.0,25.0,Auto,SI,2.0L,4.0
+sedan/Wagon,i3 BEV,2017,BMW,Electric,,137.0,111.0,124.0,,,,Auto,e-motor,125 kW electric motor - 60 Amp-hour battery,
+sedan/Wagon,i3 BEV,2017,BMW,Electric,,129.0,106.0,117.5,,,,Auto,e-motor,125 kW electric motor - 94 Amp-hour battery,
+sedan/Wagon,Bolt,2017,Chevrolet,Electric,,128.0,110.0,119.0,,,,Auto,e-motor,150 kW electric motor,
+sedan/Wagon,500e,2017,Fiat,Electric,,,,,,,,Auto,e-motor,82 kW electric motor,
+sedan/Wagon,Ioniq,2017,Hyundai,,,,,,,,,Auto,,NA/88 kW/28 kW,
+,B250e,2017,Mercedes-Benz,Electric,,,,,,,,Auto,e-motor,132 kW electric motor,
+,i-MiEV,2017,Mitsubishi,,,,,,,,,Auto,,,
+sedan/Wagon,Model S,2017,Tesla,Electric,,,,,,,,Auto,e-motor,300 kW electric motor 60 kWh battery,
+sedan/Wagon,e-Golf,2017,Volkswagen,Electric,,,,,,,,Auto,SI,85 kW electric motor 24.2 kWh battery,
+Sedan/Wagon,i3,2016,BMW,Electric,,137.0,111.0,124.0,,,,Auto,e-motor,125 kW electric motor 21 kWh battery,
+Sedan/Wagon,Spark,2016,Chevrolet,plug-in Hybrid Electric,,128.0,108.0,118.0,,,,Auto,SI,104 kW electric motor 20 kWh battery,
+Sedan/Wagon,500e,2016,Fiat,,,122.0,108.0,115.0,,,,Auto,e-motor,83kW electric motor 24 kWh battery,
+Sedan/Wagon,Focus,2016,Ford,,,110.0,99.0,105.0,,,,Auto,,107 kW electric motor 23 kWh battery,
+Sedan/Wagon,B250e,2016,Mercedes-Benz,,,85.0,82.0,84.0,,,,Auto,,132 kW electric motor 28 kWh battery,
+Sedan/Wagon,i-MiEV,2016,Mitsubishi,,,126.0,99.0,113.0,,,,Auto,,,
+Sedan/Wagon,Leaf,2016,Nissan,,,126.0,101.0,114.0,,,,Auto,SI,80 kW electric motor 24 kWh battery,
+Sedan/Wagon,fortwo,2016,Smart,,,122.0,93.0,108.0,,,,Auto,SI,55 kW electric motor 17.6 kWh battery,
+Sedan/Wagon,Model S,2016,Tesla,,,88.0,90.0,89.0,,,,Auto,e-motor,285 kW electric motor 70 kWh battery,
+Sedan/Wagon,Model S AWD,2016,Tesla,,,95.0,106.0,101.0,,,,Auto,e-motor,350/285 kW electric motor 90 kWh battery,
+SUV,Model X AWD 90D,2016,Tesla,,,90.0,94.0,92.0,,,,Auto,e-motor,193/193 kW electric motor 90 kWh battery,
+SUV,Model X AWD P90D,2016,Tesla,,,89.0,90.0,90.0,,,,Auto,e-motor,193/375 kW electric motor 90 kWh battery,
+Sedan/Wagon,e-Golf,2016,Volkswagen,,,126.0,105.0,116.0,,,,Auto,SI,85 kW electric motor 24.2 kWh battery,
+Sedan/Wagon,i3,2015,BMW,Electric,,137.0,111.0,124.0,,,,Auto,e-motor,"125 kW electric motor, 21 kWh battery",
+Sedan/Wagon,Spark,2015,Chevrolet,plug-in Hybrid Electric,,128.0,109.0,119.0,,,,Auto,SI,"104 kW electric motor, 20 kWh battery",
+Sedan/Wagon,500e,2015,Fiat,,,122.0,108.0,115.0,,,,Auto,e-motor,"83kW electric motor, 24 kWh battery",
+Sedan/Wagon,Focus,2015,Ford,,,110.0,99.0,105.0,,,,Auto,,"107 kW electric motor, 23 kWh battery",
+Sedan/Wagon,Soul,2015,Kia,,,120.0,92.0,106.0,,,,Auto,e-motor,"50 kW electric motor, 16.4 kWh battery",
+Sedan/Wagon,B-Class Electric,2015,Mercedes-Benz,,,85.0,83.0,84.0,,,,Auto,,"132 kW electric motor, 28 kWh battery",
+Sedan/Wagon,i-MiEV,2015,Mitsubishi,,,126.0,99.0,113.0,,,,Auto,,,
+Sedan/Wagon,Leaf,2015,Nissan,,,126.0,101.0,114.0,,,,Auto,e-motor,"80 kW electric motor, 24 kWh battery",
+Sedan/Wagon,fortwo,2015,Smart,,,122.0,93.0,108.0,,,,Auto,e-motor,"55 kW electric motor, 17.6 kWh battery",
+Sedan/Wagon,Model S,2015,Tesla,,,94.0,97.0,96.0,,,,Auto,e-motor,"300 kW electric motor, 60 kWh battery",
+Sedan/Wagon,e-Golf,2015,Volkswagen,,,,,,,,,Auto,e-motor,"85 kW electric motor, 24.2 kWh battery",
+Sedan/Wagon,i3,2014,BMW,Electric,,,,,,,,Auto,e-motor,125 kW electric motor,
+Sedan/Wagon,Spark,2014,Chevrolet,plug-in Hybrid Electric,,128.0,109.0,119.0,,,,Auto,SI,104 kW electric motor,
+Sedan/Wagon,500e,2014,Fiat,,,122.0,108.0,115.0,,,,Auto,,83kW electric motor,
+Sedan/Wagon,Focus,2014,Ford,,,110.0,99.0,105.0,,,,Auto,,107 kW electric motor,
+Sedan/Wagon,Fit,2014,Honda,,,132.0,105.0,119.0,,,,Auto,,92 kW electric motor,
+Sedan/Wagon,Soul,2014,Kia,,,,,,,,,Auto,,50 kW electric motor,
+Sedan/Wagon,B-Class Electric,2014,Mercedes-Benz,,,,,,,,,Auto,,100 kW electric motor,
+Sedan/Wagon,i-MiEV,2014,Mitsubishi,,,126.0,99.0,113.0,,,,Auto,,,
+Sedan/Wagon,Leaf,2014,Nissan,,,,,,,,,Auto,,80 kW electric motor,
+Sedan/Wagon,iQ EV,2014,Scion,,,138.0,105.0,122.0,,,,Auto,,47 kW electric motor,
+Sedan/Wagon,fortwo,2014,Smart,,,122.0,93.0,108.0,,,,Auto,,55 kW electric motor,
+Sedan/Wagon,Model S,2014,Tesla,,,94.0,97.0,96.0,,,,Auto,e-motor,300 kW electric motor,
+SUV,RAV 4 EV,2014,Toyota,,,78.0,74.0,76.0,,,,Auto,,115 kW electric motor,
+Sedan/Wagon,CODA,2013,Coda Automotive,,,77.0,68.0,73.0,,,,,Electric,100 kW e-motor,
+Sedan/Wagon,500e,2013,Fiat,,,116.0,100.0,108.0,,,,Auto,,100 kW e-motor,
+Sedan/Wagon,Focus,2013,Ford,,,110.0,99.0,105.0,,,,Auto,,107 kW e-motor,
+Sedan/Wagon,FIT EV,2013,Honda,,,132.0,105.0,119.0,,,,,,92 kW e-motor,
+Sedan/Wagon,i-MiEV,2013,Mitsubishi,,,126.0,99.0,113.0,,,,,,,
+Sedan/Wagon,Leaf,2013,Nissan,,,106.0,92.0,99.0,,,,,,80 kW e-motor,
+Sedan/Wagon,iQ EV,2013,Scion,,,138.0,105.0,122.0,,,,Auto,,47 kW e-motor,
+Sedan/Wagon,ForTwo,2013,Smart,,,112.0,88.0,100.0,,,,,,55 kW e-motor,
+Sedan/Wagon,Model S,2013,Tesla,,,88.0,90.0,89.0,,,,Auto,e-motor,300 kW e-motor,
+SUV,RAV 4 EV,2013,Toyota,,,78.0,74.0,76.0,,,,Auto,,115 kW e-motor,
+Sedan/Wagon,CODA,2012,Coda Automotive,,,77.0,68.0,73.0,,,,Automatic,,100kW e-motor,
+Sedan/Wagon,Focus EV,2012,Ford,,,,,,,,,,105 kW e-motor,,
+Van,Ford Azure Transit Connect,2012,Ford,,,62.0,62.0,62.0,,,,,52 kW e-motor,,
+Sedan/Wagon,Fit EV,2012,Honda,,,,,,,,,3 mode / 1 speed,,,
+Sedan/Wagon,Mitusbishi i,2012,Mitsubishi,,,126.0,99.0,113.0,,,,,,,
+Sedan/Wagon,Leaf,2012,Nissan,,,106.0,92.0,99.0,,,,Automatic / 1 speed,80 kW e-motor,,
+Sedan/Wagon,Model S,2012,Tesla Motors,,,88.0,90.0,89.0,,,,Auto,e-motor,,
+SUV,RAV4 EV,2012,Toyota,,,,,,,,,,,,
+Sedan/Wagon,LiFe,2012,"Wheego Electric Cars, Inc.",,,,,,,,,,15 kW e-motor,,
+Van,Ford  Azure Transit Connect,2011,Ford,,,62.0,,,,,,,52 kW e-motor,,
+Sedan/Wagon,Leaf,2011,Nissan,,,,,,,,,None,,,
+Sedan/Wagon,LEAF,2011,Nissan,,,,,,,,,None,AC electric motor,,
+Sedan/Wagon,Roadster 2.5,2011,Tesla Motors,,,,,,,,,,,,
+Sedan/Wagon,Roadster,2010,Tesla Motors,,,,,,,,,,,,
+Sedan/Wagon,Roadster 2.5,2009,Tesla Motors,,,,,,,,,,,,
+Van,Citivan,2004,Solectria,,,800.0,800.0,800.0,,,,Single-speed automatic,110kW Solectria AC Induction Direct-Drive,,
+Sedan/Wagon,TH!NK City,2003,Ford,,,,,,,,,,Three-phase AC induction,,
+Sedan/Wagon,Altra EV,2003,Nissan,,,26.0,29.0,28.0,,,,transaxle w/2-stage gear set,Permanent Magnet Synchronous Motor,,
+Sedan/Wagon,Hypermini,2003,Nissan,,,,,,,,,,Neodymium Magnet AC Synchronous,,
+Van,Citivan,2003,Solectria,,,800.0,800.0,800.0,,,,Single-speed automatic,110kW Solectria AC Induction Direct-Drive,,
+SUV,RAV4-EV,2003,Toyota,,,27.0,34.0,31.0,,,,Single speed,Permanent-Magnet 50 kW DC,,
+Truck,Ranger EV(Lead Acid),2002,Ford,,,38.0,44.0,41.0,,,,single-speed,"High Efficiency, liquid cooled, 3-phase 67 kW AC induction",,
+Sedan/Wagon,Th!NK City,2002,Ford,,,,,,,,,,Three-phase AC induction,,
+Sedan/Wagon,Altra EV,2002,Nissan,,,26.0,29.0,28.0,,,,transaxle w/2-stage gear set,Permanent Magnet Synchronous Motor,,
+Sedan/Wagon,Hypermini,2002,Nissan,,,,,,,,,,Neodymium Magnet AC Synchronous,,
+Van,Citivan,2002,Solectria,,,,,,,,,Type Single-speed automatic,70kW Solectria AC Induction Direct-Drive,,
+SUV,RAV4-EV,2002,Toyota,,,29.0,37.0,33.0,,,,single speed,Permanent-Magnet 50 kW DC,,
+Truck,Ranger EV(Lead Acid),2001,Ford,,,38.0,44.0,41.0,,,,single-speed,"High Efficiency, liquid cooled, 3-phase 67 kW AC induction",,
+Sedan/Wagon,EV1-Lead Acid,2001,General Motors EV,,,26.0,26.0,26.0,,,,single speed w/dual reduction,"Three Phase, Alternating Current, AC Induction",,
+Sedan/Wagon,EV1-NiMH,2001,General Motors EV,,,34.0,30.0,32.0,,,,single speed w/dual reduction,,,
+Sedan/Wagon,Altra EV,2001,Nissan,,,26.0,29.0,28.0,,,,transaxle w/2-stage gear set,Permanent Magnet Synchronous Motor,,
+Sedan/Wagon,Hypermini (CA only),2001,Nissan,,,,,,,,,,Neodymium Magnet AC Synchronous,,
+Van,Citivan,2001,Solectria,,,,,,,,,Type Single-speed automatic,70kW Solectria AC Induction Direct-Drive,,
+Truck,Flash,2001,Solectria,,,,,,,,,"single-speed, fixed ratio",34kW AC Induction Drive,,
+Sedan/Wagon,Force,2001,Solectria,,,13.7,,,,,,"single-speed, fixed ratio",,,
+Sedan/Wagon,E-COM,2001,Toyota,,,,,,,,,,Permanent-Magnet,,
+SUV,RAV4-EV,2001,Toyota,,,29.0,37.0,33.0,,,,single speed,Permanent-Magnet 50 kW DC,,
+Truck,Chevrolet S-10 NiMH,2000,Chevrolet,,,94.0,86.0,90.0,,,,single-speed,,,
+Truck,Chevrolet S-10 PbA,2000,Chevrolet,,,45.0,41.0,43.0,,,,single-speed,,,
+Van,Voyager EPIC,2000,Chrysler,,,67.0,73.0,70.0,,,,single-speed,,,
+Van,Caravan EPIC,2000,Dodge,,,67.0,,34.0,,,,single-speed,,,
+Truck,Ranger EV-NiMH PbA,2000,Ford,,,38.0,44.0,41.0,,,,single-speed,,,
+Sedan/Wagon,Th!NK City-sel mrkts,2000,Ford,,,,,,,,,,Three-phase AC induction,,
+Sedan/Wagon,EV1-Lead Acid,2000,General Motors EV,,,26.0,26.0,26.0,,,,single speed w/dual reduction,"Three Phase, Alternating Current, AC Induction",,
+Sedan/Wagon,EV1-NiMH,2000,General Motors EV,,,34.0,30.0,32.0,,,,single speed w/dual reduction,,,
+Sedan/Wagon,Altra EV,2000,Nissan,,,26.0,29.0,28.0,,,,transaxle w/2-stage gear set,,,
+Truck,Flash,2000,Solectria,,,,,,,,,"single-speed, fixed ratio",,,
+Sedan/Wagon,Force NiCd PbA NiMH,2000,Solectria,,,13.7,,,,,,"single-speed, fixed ratio",,,
+SUV,RAV4-EV,2000,Toyota,,,29.0,37.0,33.0,,,,single speed,,,
+Truck,Chevrolet S-10 L/A,1999,Chevrolet,,,45.0,41.0,43.0,,,,single-speed,,,
+Truck,Chevrolet S-10 NiMH,1999,Chevrolet,,,94.0,86.0,90.0,,,,single-speed,,,
+Van,Epic Minivan,1999,Chrysler,,,67.0,73.0,70.0,,,,single-speed,,,
+Van,Caravan EPIC,1999,Dodge,,,67.0,,34.0,,,,single-speed,,,
+Truck,Ranger EV-Lead Acid,1999,Ford,,,38.0,44.0,41.0,,,,single-speed,,,
+Truck,Ranger EV-NiMH,1999,Ford,,,0.0,0.0,0.0,,,,single-speed,,,
+Sedan/Wagon,EV1-Lead Acid,1999,General Motors EV,,,30.0,25.0,28.0,,,,single speed w/dual reduction,"Three Phase, Alternating Current, AC Induction",,
+Sedan/Wagon,EV1-NiMH,1999,General Motors EV,,,34.0,30.0,32.0,,,,single speed w/dual reduction,,,
+Sedan/Wagon,EV Plus,1999,Honda,,,49.0,51.0,50.0,,,,"single-speed, reduction gear",,,
+Sedan/Wagon,Altra EV,1999,Nissan,,,30.0,34.0,32.0,,,,transaxle w/2-stage gear set,,,
+Van,CitiVan,1999,Solectria,,,8.5,,,,,,"single-speed, fixed ratio",,,
+Truck,Flash,1999,Solectria,,,,,,,,,"single-speed, fixed ratio",,,
+Sedan/Wagon,Force Lead Acid,1999,Solectria,,,13.7,,,,,,"single-speed, fixed ratio",,,
+Sedan/Wagon,Force NiCd,1999,Solectria,,,13.7,,,,,,"single-speed, fixed ratio",,,
+SUV,RAV4-EV NiMH,1999,Toyota,,,29.0,37.0,33.0,,,,single speed,,,
+SUV,RAV4-EV PbA,1999,Toyota,,,29.0,37.0,33.0,,,,single speed,,,
+Truck,Chevrolet S-10,1998,Chevrolet,,,94.0,86.0,90.0,,,,single-speed,,,
+Truck,Chevrolet S-10 PbA,1998,Chevrolet,,,45.0,41.0,43.0,,,,single-speed,,,
+Truck,Ranger EV,1998,Ford,,,0.0,0.0,0.0,,,,automatic,"high-efficiency, 3-phase AC induction motor",,
+Sedan/Wagon,"EV1-NiMH (CA,AZ)",1998,General Motors EV,,,34.0,30.0,32.0,,,,single speed w/dual reduction,,,
+Sedan/Wagon,"EV1 - PbA (CA, AZ)",1998,General Motors EV,,,30.0,25.0,28.0,,,,single speed w/dual reduction,"Three Phase, Alternating Current, AC Induction",,
+Sedan/Wagon,EV Plus,1998,Honda,,,100.0,84.0,92.0,,,,"single-speed, reduction gear",,,
+SUV,RAV4-EV NiMH (Flts.),1998,Toyota,,,29.0,37.0,33.0,,,,single speed,,,
+SUV,RAV4-EV PbA (Fleets),1998,Toyota,,,29.0,37.0,33.0,,,,single speed,,,
+Truck,Chevrolet S-10 PbA,1997,Chevrolet,,,45.0,41.0,43.0,,,,single-speed,,,
+Truck,Ranger EV,1997,Ford,,,,,,,,,automatic,"high-efficiency, 3-phase AC induction motor",,
+Sedan/Wagon,EV1-Lead Acid,1997,General Motors EV,,,26.0,26.0,26.0,,,,single speed w/dual reduction,"Three Phase, Alternating Current, AC Induction",,
+Van,Plymouth TE Van,1995,Dodge,,,,,,,,,4-speed automatic,,,
